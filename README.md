@@ -10,9 +10,7 @@ You can view the live version of the portfolio here: [Your Portfolio Link]((http
 
 * HTML5
 * CSS3
-* JavaScript (if applicable)
-* React.js (if applicable)
-* Tailwind CSS / Bootstrap (if applicable)
+* JavaScript 
 
 ## 📅 Features
 
